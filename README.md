@@ -1,13 +1,13 @@
 # UT-CML
 
-## Citation
+### Citation
 
-## ChatGPT
+### ChatGPT
 
-## BERT MultiLabel Classification
+### BERT MultiLabel Classification
 
-## Google Scholar script
+### Google Scholar script
 
-## Removing Duplicates
+### Removing Duplicates
 
-## BERT Modelling
+### BERT Modelling
