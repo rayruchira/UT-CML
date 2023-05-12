@@ -8,7 +8,7 @@ import time
 
 #  openapi
 
-openai.api_key = "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"
+openai.api_key =
 
 
 df = pd.read_csv('/Users/ruchiraray/Documents/UT CML/Cleaned (without citation).csv')
